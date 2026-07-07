@@ -16,12 +16,11 @@ Complete redesign of the project.
 - Interactive SVG maps
 - Live preview
 - SVG & PNG export
-- Download links can be sent by e-mail
-- Delete link for removing exported SVG and PNG results
+- Export result links can be sent by e-mail
+- Delete link for removing exported PNG and SVG results
 - Multiple color scales
-- Three supported countries: Czechia, Slovakia, Poland
-- Three language versions: CS / PL / EN
-- Multi-language support
+- Supported countries: Czechia, Slovakia, Poland
+- Language versions: Czech, Polish, English
 - Responsive web interface
 
 ![Web version 1.0](images/datamaps-web-v1.0.png)
