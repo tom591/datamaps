@@ -23,7 +23,7 @@ Complete redesign of the project.
 - Language versions: Czech, Polish, English
 - Responsive web interface
 
-![Web version 1.0](images/datamaps-web-v1.0.png)
+
 
 ---
 
