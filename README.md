@@ -16,7 +16,11 @@ Complete redesign of the project.
 - Interactive SVG maps
 - Live preview
 - SVG & PNG export
+- Download links can be sent by e-mail
+- Delete link for removing exported SVG and PNG results
 - Multiple color scales
+- Three supported countries: Czechia, Slovakia, Poland
+- Three language versions: CS / PL / EN
 - Multi-language support
 - Responsive web interface
 
