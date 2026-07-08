@@ -2,6 +2,8 @@
 
 Free online thematic map generator.
 
+[DataMaps.cz/en](https://datamaps.cz/en)
+
 Create professional SVG and PNG maps from regional data using customizable color scales. Designed for reports, presentations, education, and research.
 
 ---
