@@ -25,6 +25,10 @@ Complete redesign of the project.
 
 ![Web version 1.0](images/datamaps-web-v1.0.png)
 
+### Sample map
+
+![Sample map](images/datamaps_sample.png)
+
 ---
 
 ### 2024 – Desktop version 1.2
