@@ -27,7 +27,7 @@ Complete redesign of the project.
 
 ![Web version 1.0](images/datamaps-web-v1.0.png)
 
-### Sample map
+### Example output
 
 ![Sample map](images/datamaps_sample.png)
 
