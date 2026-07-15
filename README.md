@@ -10,6 +10,13 @@ Create professional SVG and PNG maps from regional data using customizable color
 
 ## 🕒 Project history
 
+### July 2026 – Web Version 1.1
+
+- added Spanish language support
+- added maps of Canada and Spain
+- added a result deletion page for a better user experience
+- various minor improvements and bug fixes
+
 ### July 2026 – Web version 1.0
 
 Complete redesign of the project.
