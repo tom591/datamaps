@@ -10,6 +10,13 @@ Create professional SVG and PNG maps from regional data using customizable color
 
 ## 🕒 Project history
 
+### July 2026 – Web Version 1.2
+
+- added German language support
+- added maps for Germany and Austria
+- upgraded the results email from plain text to HTML
+- added automatic browser language detection
+
 ### July 2026 – Web Version 1.1
 
 - added Spanish language support
